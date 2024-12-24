@@ -1,2 +1,2 @@
-# project_HMM
-Project for the course HMM
+# project_MCMC
+Project for the MCMC course
